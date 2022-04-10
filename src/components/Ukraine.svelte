@@ -1,5 +1,5 @@
-<a class="banner" href="https://www.stopputin.net/">
-    Stand with Ukraine 🇺🇦
+<a class="banner" href="https://analphabeta.ai">
+    Stand with NUAH
 </a>
 
 
