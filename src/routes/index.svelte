@@ -70,7 +70,7 @@
 			<div>
 				<code>npm i svelte-use-io</code>
 				·
-				<span>Complaint box: <a href="https://twitter.com/DerekNguyen10">@dereknguyen10</a></span>
+				<span>Complaint box: <a href="https://twitter.com/DerekNguyen10">@analphabeta</a></span>
 			</div>
 		</div>
 		<nav class="main-nav" data-grid-name="b">
